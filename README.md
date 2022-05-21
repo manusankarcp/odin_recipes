@@ -3,7 +3,7 @@
 
 #index.html
 Created a webpage Odin recipe which include links to 3 different recipe webpages namely onigiri , ramen , and rice porridge .
-links are inclused using <a> tag (anchor) and href attribute .
+links are inclused using Anchor tag and href attribute .
 An image luffi.gif included
 
 #ramen.html #onigiri.html #rice-porridge.html
@@ -12,9 +12,9 @@ Also Ingredients and Steps to make dish included .
 
 
 #Tags used 
-<P> paragraph
-<h1>h1 etc used for headings
-<ol><li>ol and li used for ordered list 
-also <ul> for unordered list
-<img> for img with src and alt attributes .
-<a> tag with href for links.
+paragraph
+h1.h4 etc used for headings
+ol and li used for ordered list 
+also ul for unordered list
+img tag for img with src and alt attributes .
+anchor tag with href for links.
