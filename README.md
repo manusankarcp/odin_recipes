@@ -12,9 +12,9 @@ Also Ingredients and Steps to make dish included .
 
 
 #Tags used 
-<P> paragraph </P>
-<h1>h1 etc used for headings </h1>
-<ol><li>ol and li used for ordered list</li><ol> 
+<P> paragraph
+<h1>h1 etc used for headings
+<ol><li>ol and li used for ordered list 
 also <ul> for unordered list
 <img> for img with src and alt attributes .
 <a> tag with href for links.
